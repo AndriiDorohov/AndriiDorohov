@@ -2,9 +2,8 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </div>
 
-[https://img.shields.io/badge/LinkedIn-blue
-](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
-)
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+
 <!--
 **AndriiDorohov/AndriiDorohov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
