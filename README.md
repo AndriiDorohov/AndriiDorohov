@@ -4,7 +4,7 @@
 
   Write me:
 
-<div id="badges" align="left">
+<div id="badges">
     <a href="https://www.linkedin.com/in/andrii-dorokhov-4a700b132">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
@@ -16,12 +16,11 @@
         </a>
 </div>
 
-<h3 align="left">
+
 :man_technologist: About Me :
-</h3>
-<p align="left">
+
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </p>
+
   
  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -31,8 +30,9 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=AndriiDorohov-github-username&style=flat-square&color=blue" alt=""/>
-
+</div>
 
 
 <!--
