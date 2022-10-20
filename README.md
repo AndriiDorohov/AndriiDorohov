@@ -20,6 +20,8 @@
 
 ### :man_technologist: About Me :
 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
   
 <img src="https://komarev.com/ghpvc/?username=AndriiDorohov-github-username&style=flat-square&color=blue" alt=""/>
 
