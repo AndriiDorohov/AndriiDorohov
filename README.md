@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 
-
+  <h2 align"left">
+  Write me
+    </h2>
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/andrii-dorokhov-4a700b132">
