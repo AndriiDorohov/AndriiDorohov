@@ -17,9 +17,9 @@
         </a>
 </div>
 
-  <h3>
+
 ### :man_technologist: About Me :
-  </h3>
+
   
 <img src="https://komarev.com/ghpvc/?username=AndriiDorohov-github-username&style=flat-square&color=blue" alt=""/>
 
