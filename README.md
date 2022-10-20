@@ -21,6 +21,8 @@
 
   I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -36,6 +38,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" **alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Git" **alt="Photoshop" width="40" height="40"/>
 </div>
+
+---
 
 ###  :brain:	Now I'm studying:
 <div>
