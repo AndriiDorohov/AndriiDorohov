@@ -17,7 +17,7 @@
         </a>
 </div>
 
-  <h3 align="left">
+  <h3>
 ### :man_technologist: About Me :
   </h3>
   
