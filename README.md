@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </div>
 
-  Write me:
+---
+
+###  Write me:
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/andrii-dorokhov-4a700b132">
@@ -39,7 +41,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Git" **alt="Photoshop" width="40" height="40"/>
 </div>
 
----
 
 ###  :brain:	Now I'm studying:
 <div>
