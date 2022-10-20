@@ -37,6 +37,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Git" **alt="Photoshop" width="40" height="40"/>
 </div>
 
+Now I'm studying:
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AndriiDorohov-github-username&style=flat-square&color=blue" alt=""/>
 </div>
