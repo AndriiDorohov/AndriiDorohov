@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </div>
 
-<div id="badges">
+
+<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/andrii-dorokhov-4a700b132">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
