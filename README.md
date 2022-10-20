@@ -28,7 +28,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-dorokhov-4a700b132/)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AndriiDorohov-github-username&style=flat-square&color=blue" alt=""/>
