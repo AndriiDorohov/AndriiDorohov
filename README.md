@@ -17,8 +17,9 @@
         </a>
 </div>
 
+  <div align="left">
 ### :man_technologist: About Me :
-
+  </div>
   
 <img src="https://komarev.com/ghpvc/?username=AndriiDorohov-github-username&style=flat-square&color=blue" alt=""/>
 
