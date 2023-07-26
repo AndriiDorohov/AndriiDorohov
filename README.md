@@ -1,5 +1,3 @@
-version="v1"><a class="badge-base__link LI-simple-link" href="https://se.linkedin.com/in/andrii-dorokhov-4a700b132?trk=profile-badge">Andrii Dorokhov</a></div>
-              
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </div>
