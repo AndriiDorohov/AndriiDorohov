@@ -19,12 +19,6 @@
 </div>
 
 
-### :man_technologist: About Me :
-
-  I am a beginner Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
----
-
 ### My stack :
 
 <div>
@@ -47,7 +41,7 @@
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndriiDorohov&theme=dark)](https://git.io/streak-stats)  
